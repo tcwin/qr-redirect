@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "/r/*",
-      "rewrite": "/r/index.html"
+      "route": "/qr/*",
+      "rewrite": "/qr/index.html"
     }
   ],
   "navigationFallback": {
